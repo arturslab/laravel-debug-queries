@@ -1,3 +1,5 @@
+![Laravel debug queries](img/github_header_laravel_debug_queries.png)
+
 # Laravel debug queries
 This simple snippet allow you dump DB queries. This snippet is uselful in development environment if you run Laravel commands from console and you have some database queries that you want to check. All queries are printed in console with those informations:
 - BINDINGS
