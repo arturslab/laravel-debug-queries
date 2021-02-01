@@ -44,7 +44,7 @@ class SampleCommand extends Command
 	}
 
 	/**
-	 * @return array|null
+	 * @return array
 	 */
 	private function getData(): array
 	{
