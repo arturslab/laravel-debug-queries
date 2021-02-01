@@ -1,0 +1,1 @@
+# laravel-debug-queries
